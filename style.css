@@ -606,3 +606,53 @@ footer p {
   color: white; /* Set the text color to white */
   /* Add any additional styles you want for elements with this class */
 }
+
+#desktop-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Aligns items to the start of the container */
+  background-color: #f4f4f4;
+  padding: 10px 20px;
+}
+
+.logo1 {
+  display: flex; /* Ensures the logo image is aligned with the name */
+  padding: 0; /* Removes any default padding */
+  margin-left:10rem;
+  margin-right: 0; /* No space between the logo and the name */
+}
+
+.logo1 img {
+  display: block; /* Removes any inline spacing */
+  max-height: 80px;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px; /* Ensures no space between the logo and the name */
+  padding-left: 0; /* Removes any default padding */
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin-left: 20rem; /* Pushes the nav links to the right */
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0 10px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-size: 24px;
+}
+
+.nav-links a:hover {
+  color: #007bff;
+}
+
+
