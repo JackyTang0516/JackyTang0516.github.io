@@ -634,24 +634,49 @@ footer p {
   padding-left: 0; /* Removes any default padding */
 }
 
-.nav-links {
+nav-linkstop {
+  display: flex;
+}
+
+.nav-linkstop {
+  gap: 2rem;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+.nav-linkstop {
+  position: relative;
+  z-index: 2; /* Ensures the nav links stay above the cover */
+}
+
+.nav-linkstop {
+  list-style: none; /* Removes bullet points from the list */
+  padding: 0; /* Removes default padding */
+}
+
+.nav-linkstop li {
+  display: inline; /* Display list items in a row */
+  margin-right: 0px; /* Adjust spacing between items */
+}
+
+.nav-linkstop {
   list-style: none;
   display: flex;
   margin-left: 20rem; /* Pushes the nav links to the right */
   padding: 0;
 }
 
-.nav-links li {
+.nav-linkstop li {
   margin: 0 10px;
 }
 
-.nav-links a {
+.nav-linkstop a {
   text-decoration: none;
   color: #333;
   font-size: 24px;
 }
 
-.nav-links a:hover {
+.nav-linkstop a:hover {
   color: #007bff;
 }
 
