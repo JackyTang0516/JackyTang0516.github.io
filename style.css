@@ -266,7 +266,7 @@ section {
 }
 .section__text__p11 {
   text-align: center;
-  margin-top: 5rem;
+  margin-top: 0rem;
   margin-bottom: -5rem;
 }
 .section__text__p2 {
@@ -364,7 +364,7 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-top: 15rem;
 }
 
 .about-details-container {
