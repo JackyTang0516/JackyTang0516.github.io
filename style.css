@@ -366,7 +366,20 @@ section {
   margin-bottom: 2rem;
   margin-top: 15rem;
 }
-
+.about-containersp {
+  gap: 1rem;
+  margin-bottom: 0rem;
+  margin-top: 10rem;
+  margin-left: 3rem;
+  display: flex;
+}
+.about-containerspp {
+  gap: 1rem;
+  margin-bottom: 0rem;
+  margin-top: 1rem;
+  margin-left: 3rem;
+  display: flex;
+}
 .about-details-container {
   justify-content: center;
   flex-direction: column;
