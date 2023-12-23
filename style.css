@@ -191,7 +191,7 @@ a:hover {
 
 .experience-entry2 {
   padding-bottom: 1.5rem; /* Space at the bottom of each entry */
-  margin-bottom: 0rem; /* Space after each entry */
+  margin-bottom: -2rem; /* Space after each entry */
 }
 
 .experience-entry:last-child {
