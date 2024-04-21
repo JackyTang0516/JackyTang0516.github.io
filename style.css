@@ -443,10 +443,13 @@ section {
 /* EXPERIENCE SECTION */
 #profile,
 #experience,
-#contact,
-#skills {
-  position: relative;
+#contact {
   margin-top: 50px;
+  position: relative;
+}
+#skills {
+  margin-top: 500px;
+  position: relative;
 }
 
 #profile {
