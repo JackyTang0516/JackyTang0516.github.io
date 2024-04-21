@@ -312,6 +312,14 @@ section {
   margin-right: 15px;
 }
 
+.icon3 {
+  cursor: pointer;
+  height: 5rem;
+  margin-top: -25px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
 /* BUTTONS */
 
 .btn-container {
